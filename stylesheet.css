@@ -37,7 +37,9 @@
     background-color: #f7f7f7;
   }
   
-  
+  .message-wrapper img{
+  width:300px;
+}
   
   .product-icon p{
     font-size:15px;
